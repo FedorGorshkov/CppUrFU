@@ -3,4 +3,4 @@ project(CppUrFU)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CppUrFU main.cpp)
+add_executable(CppUrFU main.cpp main2.cpp main3.cpp main4.cpp)
